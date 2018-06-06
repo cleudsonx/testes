@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8 -*-
 
-usuario = "cleudson"
+usuario = "cleudsonx"
 password = "1234"
 
-login = raw_input ("Digite seu login de usuário: ")
+login = raw_input ("Digite seu login de usuï¿½rio: ")
 senha = raw_input ("Digite sua senha: ")
 
 if (login == usuario) and (senha == password):
     print "Usuario autenticado com sucesso!"
     print "Seja Bem Vindo!"
 else:
-    print "Acesso negado!"
+    print "Acesso negado!!!!"
