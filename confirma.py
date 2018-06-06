@@ -12,4 +12,4 @@ if (login == usuario) and (senha == password):
     print "Seja Bem Vindo ao Sistema!"
 
 else:
-    print "Negado!!!!"
+    print ("Acesso Negado!!!!")
