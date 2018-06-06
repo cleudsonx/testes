@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:UTF-8 -*-
 
-usuario = "cleudsonx"
+usuario = "rafael"
 password = "1234"
 
 login = raw_input ("Digite seu login de usu�rio: ")
