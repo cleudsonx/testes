@@ -8,8 +8,9 @@ login = raw_input ("Digite seu login de usu�rio: ")
 senha = raw_input ("Digite sua senha: ")
 
 if (login == usuario) and (senha == password):
-    print "Usuario autenticado com sucesso!"
-    print "Seja Bem Vindo ao Sistema!"
+    print ("Usuario autenticado com sucesso!")
+    print ("Seja Bem Vindo ao Sistema!")
+    print ("Seja Bem Vindo ao Sistema!")
 
 else:
     print ("Acesso Negado!!!!")
