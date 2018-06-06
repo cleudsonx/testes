@@ -13,4 +13,3 @@ if (login == usuario) and (senha == password):
 
 else:
     print "Negado!!!!"
-    print "Tente novamente"
