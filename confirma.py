@@ -9,6 +9,6 @@ senha = raw_input ("Digite sua senha: ")
 
 if (login == usuario) and (senha == password):
     print "Usuario autenticado com sucesso!"
-    print "Seja Bem Vindo!"
+    print "Seja Bem Vindo ao Sistema!"
 else:
-    print "Acesso negado!!!!"
+    print "Acesso Negado!!!!"
